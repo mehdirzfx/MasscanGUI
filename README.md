@@ -1,5 +1,8 @@
 # MasscanGUI – Interface for Masscan
 
+<img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/851c6543-4cf5-4f44-b130-65cf4ef22a11" />
+
+
 <div dir="rtl">
 
 
