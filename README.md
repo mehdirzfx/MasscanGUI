@@ -1,10 +1,9 @@
 # MasscanGUI – Interface for Masscan
 
-<img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/851c6543-4cf5-4f44-b130-65cf4ef22a11" />
+<img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/5e70a59d-68cc-4966-919a-8aef6f01aacf" />
 
 
 <div dir="rtl">
-
 
 ## [فارسی](#fa) | [English](#en)
 
@@ -86,6 +85,8 @@ Your support helps increase visibility and encourages further development.
 - 🔍 **باز کردن فایل باینری Masscan** و تبدیل به فرمت متنی
 - 🧩 **Sharding** برای اسکن توزیع‌شده
 - 🖥️ **بدون نیاز به خط فرمان** – تمام تنظیمات با کلیک
+- ⚡ **تنظیم هوشمند نرخ اسکن (Rate)** – بهینه‌سازی خودکار سرعت بر اساس شرایط شبکه
+- 📡 **استفاده از کتابخانه WinPcap/Npcap** برای عملکرد بهینه در ویندوز
 
 ### نحوه استفاده
 1. فایل‌های `MasscanGUI.exe` و `masscan.exe` را در یک پوشه قرار دهید.
@@ -113,12 +114,16 @@ Your support helps increase visibility and encourages further development.
 ### نیازمندی‌ها
 - ویندوز (۷، ۸، ۱۰، ۱۱) – همچنین روی لینوکس و مک با پایتون ۳ قابل اجراست.
 - بدون نیاز به نصب پایتون (فایل exe ارائه شده)
+- **WinPcap** یا **Npcap** (برای عملکرد بهینه اسکن)
 
 ### دانلود
 فایل اجرایی (همراه با masscan.exe) را از بخش **[Releases](https://github.com/mehdirzfx/MasscanGUI/releases)** دانلود کنید.
 
 ### لینک پروژه در گیتهاب
 [https://github.com/mehdirzfx/MasscanGUI](https://github.com/mehdirzfx/MasscanGUI)
+
+### نویسنده
+**Mehdizfx (s3nat0r)**
 
 ## ⭐️ حمایت شما
 
