@@ -76,7 +76,3 @@ If you find this project useful, please consider giving it a **star** on GitHub.
 Your support helps increase visibility and encourages further development.
 
 [![GitHub stars](https://img.shields.io/github/stars/mehdirzfx/MasscanGUI?style=for-the-badge&logo=github&color=yellow)](https://github.com/mehdirzfx/MasscanGUI/stargazers)
-
-## فایل دوم: `README.fa.md` (فارسی)
-
-```markdown
