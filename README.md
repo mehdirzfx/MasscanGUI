@@ -4,6 +4,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/mehdirzfx/MasscanGUI?style=for-the-badge&logo=github&color=yellow)](https://github.com/mehdirzfx/MasscanGUI/stargazers)
 
 <img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/5e70a59d-68cc-4966-919a-8aef6f01aacf" />
+<img src="https://img.shields.io/github/forks/mehdirzfx/MasscanGUI?style=for-the-badge">
+<img src="https://img.shields.io/github/downloads/mehdirzfx/MasscanGUI/total?style=for-the-badge">
+
+---
 
 > 📖 [Read this document in Persian (فارسی)](README.fa.md)
 
