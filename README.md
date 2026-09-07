@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/forks/mehdirzfx/MasscanGUI?style=for-the-badge">
 <img src="https://img.shields.io/github/downloads/mehdirzfx/MasscanGUI/total?style=for-the-badge">
 
-<img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/5e70a59d-68cc-4966-919a-8aef6f01aacf" />
+<img width="632" height="577" alt="image" src="https://github.com/user-attachments/assets/ce562c04-1bc0-42c2-bc38-5838ebce8ee7" />
 
 ---
 
