@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/mehdirzfx/MasscanGUI?style=for-the-badge&logo=github&color=yellow)](https://github.com/mehdirzfx/MasscanGUI/stargazers)
 
-<img width="982" height="672" alt="image" src="https://github.com/user-attachments/assets/5e70a59d-68cc-4966-919a-8aef6f01aacf" />
+<img width="632" height="577" alt="image" src="https://github.com/user-attachments/assets/ce562c04-1bc0-42c2-bc38-5838ebce8ee7" />
 
 > 📖 [خواندن این سند به زبان انگلیسی](README.md)
 
